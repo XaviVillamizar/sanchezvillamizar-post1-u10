@@ -69,6 +69,15 @@ mvn clean verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar \
 
 En esta sección se presentan las evidencias obtenidas durante las dos fases del proceso: el diagnóstico inicial y la posterior refactorización del código.
 
+<img width="1920" height="1080" alt="WuwaTappo_ZDXqa51JlA" src="https://github.com/user-attachments/assets/89455a69-c67a-4ada-8757-77f2db7cc0b6" />
+<img width="1920" height="1080" alt="WuwaTappo_ICfyMLDbKi" src="https://github.com/user-attachments/assets/9beca4b3-ea9f-40e5-ad98-b946eaef4035" />
+<img width="1920" height="1080" alt="WuwaTappo_yfWAPVyRSd" src="https://github.com/user-attachments/assets/994b86df-c733-48f3-8db0-e81a24318673" />
+<img width="1920" height="1080" alt="WuwaTappo_boZfxe2MDG" src="https://github.com/user-attachments/assets/6178981e-45cd-46f8-997f-71edca472630" />
+<img width="1920" height="1080" alt="WuwaTappo_huGIlgB8ea" src="https://github.com/user-attachments/assets/838c561d-edc0-4607-bf85-a52d3a58ca57" />
+<img width="1920" height="1080" alt="WuwaTappo_ptPg0kA5Ur" src="https://github.com/user-attachments/assets/f2495fc6-6ae6-4420-9262-dc59e0b11016" />
+<img width="1920" height="1080" alt="WuwaTappo_PGuFLrqoOs" src="https://github.com/user-attachments/assets/1c367030-d6a1-42bc-8b6e-de95e3914728" />
+<img width="1920" height="1080" alt="WuwaTappo_1tuuBBR81C" src="https://github.com/user-attachments/assets/ccd409e0-e2ad-4ccb-aa8b-6be659440807" />
+<img width="1920" height="1080" alt="WuwaTappo_lYnkKPpJXV" src="https://github.com/user-attachments/assets/39c7bf37-bd54-4314-8992-69d4049ed78e" />
 
 
 ---
