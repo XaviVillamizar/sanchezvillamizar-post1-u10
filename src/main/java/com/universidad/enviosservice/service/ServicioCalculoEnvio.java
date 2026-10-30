@@ -1,6 +1,7 @@
 package com.universidad.enviosservice.service;
 
 public class ServicioCalculoEnvio {
+
     public double calcularCosto(String metodoEnvio, double pesoKg, double distanciaKm,
                                 String tipoCliente, boolean esFragil) {
         double costo;
@@ -26,6 +27,7 @@ public class ServicioCalculoEnvio {
             if (distanciaKm > 500) {
                 costo += 25;
             }
+            costo = costo * 1.3;
         } else if (metodoEnvio.equals("OVERNIGHT")) {
             if (distanciaKm > 300) {
                 throw new IllegalArgumentException("OVERNIGHT no disponible para mas de 300 km");
